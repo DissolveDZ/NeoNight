@@ -1,0 +1,10 @@
+name = "NeoNight"
+version = "0.1.0"
+display-name = "NeoNight"
+author = "Dissolve"
+description = "A modern dark theme made specifically for Lapce"
+icon = "preview.png"
+repository = "https://github.com/DissolveDZ/NeoNight"
+color-themes = [
+    "NeoNight.toml"
+]
